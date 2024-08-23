@@ -34,17 +34,6 @@ Ensure the following are installed:
 - The system provides an immediate diagnosis, displaying the identified disease and predicted severity level.
 - Users can also submit the diagnosis for verification by a dermatologist.
 
-## Files Overview
-
-### `styles.css`
-Defines the visual styling for the web application, including layout, colors, and typography. The design focuses on a clean, user-friendly interface with intuitive navigation and accessible features.
-
-### `sign.css`
-Handles the styling of the sign-in and sign-up forms, ensuring a consistent and aesthetically pleasing user experience across all authentication pages.
-
-### `result.css`
-Responsible for the styling of the results page, where the analysis is displayed. The design ensures clear and easy-to-read results, with centered headings, informative paragraphs, and prominent buttons.
-
 ### `main.py`
 This is the core backend script for handling database operations and managing user data. Key functions include:
 - Creating tables in the MySQL database.
